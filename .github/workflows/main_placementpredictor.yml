@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'placementpredictor'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_832C4FD6CD0B4C6CBAAA9A956E4C209F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_298922C14D5641288DABD79098EB5260 }}
